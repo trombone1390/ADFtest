@@ -1,0 +1,9 @@
+{
+	"name": "kensyoADF001",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d49de0e9-dfe6-4621-b645-06ee1a609ae6",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
